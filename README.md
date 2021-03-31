@@ -4,7 +4,7 @@
 ref: [https://huggingface.co/transformers/examples.html](https://huggingface.co/transformers/examples.html)
 
 ## models
-1. [BERT](https://https://github.com/deepvine/simple-pretraining/blob/main/simple-bert-training.py): simple BERT pre-training.
+1. [BERT](https://github.com/deepvine/simple-pretraining/blob/main/simple-bert-training.py): simple BERT pre-training.
 2. BART: simple BART pre-training.
 3. ALBERT: simple ALBERT pre-training
 4. GPT-2: simple GPT-2 pre-training
