@@ -16,7 +16,7 @@ ref: [https://huggingface.co/transformers/examples.html](https://huggingface.co/
 ```
 python test.py
 ```
-ex) 요새 [MASK]에 안자 있으면
+ex) 요새 [MASK]에 앉자 있으면
 
 [{'sequence': '요새 자리 에 앉아 있으면.', 'score': 0.13420788943767548, 'token': 7132,}, {'sequence': '요새 의자 에 앉아 있으면.', 'score': 0. ...08035723119974136,
 
