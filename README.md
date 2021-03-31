@@ -12,4 +12,13 @@ ref: [https://huggingface.co/transformers/examples.html](https://huggingface.co/
 3. ALBERT: simple ALBERT pre-training
 4. GPT-2: simple GPT-2 pre-training
 
+## Test
+```
+python test.py
+```
+ex) 요새 [MASK]에 안자 있으면
+
+[{'sequence': '요새 자리 에 앉아 있으면.', 'score': 0.13420788943767548, 'token': 7132,}, {'sequence': '요새 의자 에 앉아 있으면.', 'score': 0. ...08035723119974136,
+
+
 ## TO-DO list
