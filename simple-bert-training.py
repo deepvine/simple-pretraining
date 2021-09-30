@@ -30,7 +30,7 @@ class Args(TrainingArguments):
     tokenizer_name: str = "./tokenizer/vocab.txt"
     do_train: bool = True
     do_eval: bool = True
-    output_dir: str = "./output"
+    output_dir: str = "./model"
     line_by_line: bool = True
     max_seq_length: int = 300
     preprocessing_num_workers: int = 8
